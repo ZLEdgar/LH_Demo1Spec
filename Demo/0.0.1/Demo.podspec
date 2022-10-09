@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '罗静' => '1115658829@qq.com' }
-  s.source           = { :git => 'https://github.com/xLuo-z/PackagerDemo.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:xLuo-z/LH_Demo1Spec.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
